@@ -1,8 +1,9 @@
-.nav {
-  display: flex;
-  margin: 20px;
+.main {
+  margin: 0 auto;
+  height: 100vh;
+  background-color: #f0f1f0;
 
-  * {
-    margin-right: 10px;
+  &__container {
+    width: 100%;
   }
 }
