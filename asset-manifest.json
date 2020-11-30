@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/olexiy.bashmakov.test/static/css/main.25c5d923.chunk.css",
+    "main.js": "/olexiy.bashmakov.test/static/js/main.0b8a9d53.chunk.js",
+    "main.js.map": "/olexiy.bashmakov.test/static/js/main.0b8a9d53.chunk.js.map",
+    "runtime-main.js": "/olexiy.bashmakov.test/static/js/runtime-main.28323a9f.js",
+    "runtime-main.js.map": "/olexiy.bashmakov.test/static/js/runtime-main.28323a9f.js.map",
+    "static/js/2.960bb225.chunk.js": "/olexiy.bashmakov.test/static/js/2.960bb225.chunk.js",
+    "static/js/2.960bb225.chunk.js.map": "/olexiy.bashmakov.test/static/js/2.960bb225.chunk.js.map",
+    "index.html": "/olexiy.bashmakov.test/index.html",
+    "static/css/main.25c5d923.chunk.css.map": "/olexiy.bashmakov.test/static/css/main.25c5d923.chunk.css.map",
+    "static/js/2.960bb225.chunk.js.LICENSE.txt": "/olexiy.bashmakov.test/static/js/2.960bb225.chunk.js.LICENSE.txt",
+    "static/media/discIcon.934b24d1.svg": "/olexiy.bashmakov.test/static/media/discIcon.934b24d1.svg",
+    "static/media/logo.6eff1460.png": "/olexiy.bashmakov.test/static/media/logo.6eff1460.png",
+    "static/media/Header.scss": "/olexiy.bashmakov.test/static/media/searchIcon.796584f5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28323a9f.js",
+    "static/js/2.960bb225.chunk.js",
+    "static/css/main.25c5d923.chunk.css",
+    "static/js/main.0b8a9d53.chunk.js"
+  ]
+}
